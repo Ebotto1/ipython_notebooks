@@ -1,0 +1,9 @@
+# Visualization / Plotting libraries:
+seaborn
+ggplot
+bokeh
+
+# data manipulation
+pandas
+db.py
+pandasql
